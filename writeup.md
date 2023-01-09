@@ -1,4 +1,4 @@
-## Writeup describing the decisions made during the project and justifications
+# Writeup describing the decisions made during the project and justifications
 
 # Instance Setup
 The instance type I selected is ml.t3.medium, which is a spot instance with relative low cost of $0.0125 per hour and high computing power.
