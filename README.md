@@ -7,3 +7,4 @@ Improving and preparing an image classification project for production-grade dep
 3. Set up a Lambda function for deployed model. Set up auto-scaling for deployed endpoint as well as concurrency for Lambda function.
 4. Ensure that the security on ML pipeline is set up properly.
 
+## Check writeup.md for more details
